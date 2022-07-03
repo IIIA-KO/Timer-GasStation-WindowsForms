@@ -1,0 +1,26 @@
+D:\ІЛЛЯ\ШАГ\2021-22\Windows Forms\HW\5\HW5\HW5\bin\Debug\HW5.exe.config
+D:\ІЛЛЯ\ШАГ\2021-22\Windows Forms\HW\5\HW5\HW5\bin\Debug\HW5.exe
+D:\ІЛЛЯ\ШАГ\2021-22\Windows Forms\HW\5\HW5\HW5\bin\Debug\HW5.pdb
+D:\ІЛЛЯ\ШАГ\2021-22\Windows Forms\HW\5\HW5\HW5\obj\Debug\HW5.csproj.AssemblyReference.cache
+D:\ІЛЛЯ\ШАГ\2021-22\Windows Forms\HW\5\HW5\HW5\obj\Debug\HW5.csproj.SuggestedBindingRedirects.cache
+D:\ІЛЛЯ\ШАГ\2021-22\Windows Forms\HW\5\HW5\HW5\obj\Debug\HW5.FirstTaskForm.resources
+D:\ІЛЛЯ\ШАГ\2021-22\Windows Forms\HW\5\HW5\HW5\obj\Debug\HW5.Form1.resources
+D:\ІЛЛЯ\ШАГ\2021-22\Windows Forms\HW\5\HW5\HW5\obj\Debug\HW5.Properties.Resources.resources
+D:\ІЛЛЯ\ШАГ\2021-22\Windows Forms\HW\5\HW5\HW5\obj\Debug\HW5.csproj.GenerateResource.cache
+D:\ІЛЛЯ\ШАГ\2021-22\Windows Forms\HW\5\HW5\HW5\obj\Debug\HW5.csproj.CoreCompileInputs.cache
+D:\ІЛЛЯ\ШАГ\2021-22\Windows Forms\HW\5\HW5\HW5\obj\Debug\HW5.exe
+D:\ІЛЛЯ\ШАГ\2021-22\Windows Forms\HW\5\HW5\HW5\obj\Debug\HW5.pdb
+D:\ІЛЛЯ\ШАГ\2021-22\Windows Forms\HW\5\HW5\HW5\obj\Debug\HW5.SecondTaskForm.resources
+D:\ІЛЛЯ\GitHub\Timer-GasStation-WindowsForms\Project\HW5\bin\Debug\HW5.exe.config
+D:\ІЛЛЯ\GitHub\Timer-GasStation-WindowsForms\Project\HW5\bin\Debug\HW5.exe
+D:\ІЛЛЯ\GitHub\Timer-GasStation-WindowsForms\Project\HW5\bin\Debug\HW5.pdb
+D:\ІЛЛЯ\GitHub\Timer-GasStation-WindowsForms\Project\HW5\obj\Debug\HW5.csproj.AssemblyReference.cache
+D:\ІЛЛЯ\GitHub\Timer-GasStation-WindowsForms\Project\HW5\obj\Debug\HW5.csproj.SuggestedBindingRedirects.cache
+D:\ІЛЛЯ\GitHub\Timer-GasStation-WindowsForms\Project\HW5\obj\Debug\HW5.FirstTaskForm.resources
+D:\ІЛЛЯ\GitHub\Timer-GasStation-WindowsForms\Project\HW5\obj\Debug\HW5.Form1.resources
+D:\ІЛЛЯ\GitHub\Timer-GasStation-WindowsForms\Project\HW5\obj\Debug\HW5.Properties.Resources.resources
+D:\ІЛЛЯ\GitHub\Timer-GasStation-WindowsForms\Project\HW5\obj\Debug\HW5.SecondTaskForm.resources
+D:\ІЛЛЯ\GitHub\Timer-GasStation-WindowsForms\Project\HW5\obj\Debug\HW5.csproj.GenerateResource.cache
+D:\ІЛЛЯ\GitHub\Timer-GasStation-WindowsForms\Project\HW5\obj\Debug\HW5.csproj.CoreCompileInputs.cache
+D:\ІЛЛЯ\GitHub\Timer-GasStation-WindowsForms\Project\HW5\obj\Debug\HW5.exe
+D:\ІЛЛЯ\GitHub\Timer-GasStation-WindowsForms\Project\HW5\obj\Debug\HW5.pdb
